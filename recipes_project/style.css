@@ -1,0 +1,38 @@
+body {
+    background: black;
+}
+
+#main-heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: hsla(19, 100%, 22%, 1);
+    background: radial-gradient(859px at 50% 50%, rgb(245, 220, 154) 0%, rgb(164, 78, 51) 90%);
+    padding: 1%;
+    margin: auto;
+    text-align: center;
+    border: 1px;
+    border-radius: 5cap;
+}
+
+.list {
+    list-style-type: none;
+    background: linear-gradient(180deg, rgb(255, 241, 165) 1.9%, rgb(200, 125, 76) 49.7%, rgb(83, 54, 54) 100.5%);
+    height: 80vh;
+    padding: 2%;
+    margin: 0;
+    border: 1px;
+    border-radius: 5cap;
+}
+
+.list-item {
+    margin: 3% auto;
+    text-align: center;
+}
+
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: xx-large;
+    text-decoration: none;
+    color: black;
+}
